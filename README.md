@@ -1,3 +1,4 @@
 # portfolio
-this is my first repo
-author - raj apndey
+this is my first repo.
+Author - Raj pandey
+
